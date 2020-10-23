@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SpeedTutor_Full_Menu_System/Scenes/Scene001.unity
+  isLoaded: 1
+  isActive: 1
